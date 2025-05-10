@@ -9,6 +9,12 @@ A simple microservice platform for healthcare data using MCP (Microservice Contr
 * **Medication Interactions**: Check for dangerous drug interactions
 * **Clinical Guidelines**: Get treatment protocols for common conditions
 
+
+## Sample Screnshorts
+
+![Application Screenshot](assets/main.png)
+
+
 ## Installation
 
 1. Clone the repo:
