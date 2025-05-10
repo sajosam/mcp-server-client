@@ -1,0 +1,14 @@
+{
+    "Aspirin": {
+      "interactions": ["Warfarin", "Lisinopril"]
+    },
+    "Lisinopril": {
+      "interactions": ["Aspirin", "Diuretics"]
+    },
+    "Metformin": {
+      "interactions": ["Contrast Dyes"]
+    },
+    "Atorvastatin": {
+      "interactions": ["Grapefruit Juice"]
+    }
+  }

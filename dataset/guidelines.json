@@ -1,0 +1,18 @@
+[
+    {
+      "condition": "hypertension",
+      "guideline": "Initiate therapy with ACE inhibitors or ARBs. Target BP <130/80 mmHg for patients with diabetes."
+    },
+    {
+      "condition": "diabetes",
+      "guideline": "First-line therapy: Metformin. Target HbA1c <7% for most adults."
+    },
+    {
+      "condition": "hyperlipidemia",
+      "guideline": "High-intensity statin therapy for ASCVD risk >7.5%. Target LDL <70 mg/dL for high-risk patients."
+    },
+    {
+      "condition": "asthma",
+      "guideline": "Stepwise approach: Start with low-dose ICS + SABA PRN. Add LABA for persistent symptoms."
+    }
+  ]

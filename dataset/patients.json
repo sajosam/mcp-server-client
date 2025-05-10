@@ -1,0 +1,32 @@
+[
+    {
+      "id": "PT-1001",
+      "name": "John Smith",
+      "medications": ["Aspirin", "Lisinopril"],
+      "lab_results": {
+        "cholesterol": "190 mg/dL",
+        "blood_pressure": "130/85",
+        "a1c": "5.8%"
+      }
+    },
+    {
+      "id": "PT-1002",
+      "name": "Maria Garcia",
+      "medications": ["Metformin", "Insulin"],
+      "lab_results": {
+        "cholesterol": "210 mg/dL",
+        "blood_pressure": "140/90",
+        "a1c": "7.2%"
+      }
+    },
+    {
+      "id": "PT-1003",
+      "name": "Robert Chen",
+      "medications": ["Atorvastatin", "Amlodipine"],
+      "lab_results": {
+        "cholesterol": "170 mg/dL",
+        "blood_pressure": "125/80",
+        "a1c": "5.5%"
+      }
+    }
+  ]
